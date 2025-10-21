@@ -1,2 +1,2 @@
-source /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/gdbinit/symbols
-source /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/gdbinit/connect
+source /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/bootloader/gdbinit/symbols
+source /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/bootloader/gdbinit/connect

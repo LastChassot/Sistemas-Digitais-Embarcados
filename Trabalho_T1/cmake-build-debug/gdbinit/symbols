@@ -18,8 +18,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/bootloader/bootloader.elf
+    # Bootloader elf was not found
 set confirm on
 
 # Load application symbols
-file /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/Trabalho_T1.elf
+file /home/jchassot/Documentos/Faculdade/Sistemas digitais embarcados/Trabalho T1/cmake-build-debug/bootloader/bootloader.elf
